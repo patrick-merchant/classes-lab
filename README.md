@@ -1,10 +1,10 @@
 # BNTA Labs, Exercises & Course notes
 
 ## Week 1 - Intro to Programming, Git, Command Line, Intro to Java
--closed Friday 15th April 2022
+- closed Friday 15th April 2022
 
 ## Week 2 - Java Classes, Testing
--closed Monday 18th April 2022
+- closed Monday 18th April 2022
 
 ## Week 3 - Java
 
