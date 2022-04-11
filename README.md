@@ -1,5 +1,24 @@
 # BNTA Labs, Exercises & Course notes
 
+## Week 1 - Intro to Programming, Git, Command Line, Intro to Java
+-closed Friday 15th April 2022
+
+## Week 2 - Java Classes, Testing
+-closed Monday 18th April 2022
+
+## Week 3 - Java
+
+## Week 4 - Polymorphism, Inheritance, Composition
+- closed Monday 2 May 2022
+
+## Week 5 - SQL
+
+## Week 6 - Spring
+
+## Week 7 - Backend Projects
+
+
+
  Labs, exercises and solutions are added to this repo as we go through the course.
 
  ## How to clone this repo
