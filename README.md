@@ -1,6 +1,10 @@
 # BNTA Labs, Exercises & Course notes
 
 ## Week 1 - Intro to Programming, Git, Command Line, Intro to Java
+- **Day 1**: Welcome & Induction
+- **Day 2**: Terminal, Intro to Git & GitHub
+             - **Lab**: Terminal Cheatsheet
+- **Day 3**: What is Programming, Internet 101
 - closed Friday 15th April 2022
 
 ## Week 2 - Java Classes, Testing
