@@ -65,7 +65,6 @@ brew install node
 Follow the links to download each program.
 
 - **[VSCode](https://code.visualstudio.com/)** for code editing, plus any extensions you want to add.
-- **[Java 17](https://jdk.java.net/17/)**
 - **[IntelliJ](https://www.jetbrains.com/idea/download/#section=mac)** for Java editing. Make sure you select Community Edition (unless you want to pay for it) and the Apple Silicon version from the dropdown.
 - **[Postgres.app](https://postgresapp.com/)** to get the PostgreSQL database tools.
 - **[Postman](https://www.postman.com/)** for querying APIs. You'll need to create an account, but it's free.
