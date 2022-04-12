@@ -1,5 +1,7 @@
 # Lab: Create a Cheatsheet for Terminal Commands
 
+Due: Thurs 14th April 2022
+
 Do some research to discover what you can do in the Terminal. 
 
 Make a list of commands that you might find useful during the course, with a note of what they do. There is no need to go overboard, just 15 or so commands you think you will find useful. You can use the commands already discussed in class.
