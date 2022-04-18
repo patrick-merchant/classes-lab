@@ -5,6 +5,8 @@
 - **Day 2**: Terminal, Intro to Git & GitHub
              - **Lab**: Terminal Cheatsheet
 - **Day 3**: What is Programming, Internet 101
+- **Day 4**: Data Types, Control Flow
+             - **Lab**: Control Flow
 - closed Friday 15th April 2022
 
 ## Week 2 - Java Classes, Testing
