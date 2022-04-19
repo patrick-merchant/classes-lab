@@ -3,10 +3,10 @@
 ## Week 1 - Intro to Programming, Git, Command Line, Intro to Java
 - **Day 1**: Welcome & Induction
 - **Day 2**: Terminal, Intro to Git & GitHub
-             - **Lab**: Terminal Cheatsheet
+    - **Lab**: Terminal Cheatsheet
 - **Day 3**: What is Programming, Internet 101
 - **Day 4**: Data Types, Control Flow
-             - **Lab**: Control Flow
+    - **Lab**: Control Flow
 - closed Friday 15th April 2022
 
 ## Week 2 - Java Classes, Testing
@@ -14,8 +14,8 @@
 
 ## Week 3 - Java
 - **Day 1**: 
-    - Data Structures (Arrays & ArrayLists) - (Lesson recording: https://brightnetwork.egnyte.com/dl/f9TXOobFCC)
-    - Loops & ArrayLists - (Lesson recording: https://brightnetwork.egnyte.com/dl/kN2Jhl1dC1)
+    - Data Structures (Arrays & ArrayLists) - (recording: https://brightnetwork.egnyte.com/dl/f9TXOobFCC)
+    - Loops & ArrayLists - (recording: https://brightnetwork.egnyte.com/dl/kN2Jhl1dC1)
     - **Lab:** ArrayLists and Loops
 
 
