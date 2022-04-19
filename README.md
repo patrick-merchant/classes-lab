@@ -11,13 +11,14 @@
 
 ## Week 2 - Java Classes, Testing
 - closed Monday 18th April 2022
-
-## Week 3 - Java
 - **Day 1**: 
     - Data Structures (Arrays & ArrayLists) - (recording: https://brightnetwork.egnyte.com/dl/f9TXOobFCC)
     - Loops & ArrayLists - (recording: https://brightnetwork.egnyte.com/dl/kN2Jhl1dC1)
     - **Lab:** ArrayLists and Loops
 
+
+
+## Week 3 - Java
 
 
 ## Week 4 - Polymorphism, Inheritance, Composition
